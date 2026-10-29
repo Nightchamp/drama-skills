@@ -19,7 +19,7 @@
         "**/*"
       ],
       "maintainer": "worldwonderer",
-      "packageDigest": "3ae37d7a3fda33471c2c9c17ef0e5604d68c6f79784c37dc08f6dc8ce08cbd3a",
+      "packageDigest": "7f41ba88bb5a8e2543ef0b7c9c70ed45963656df5dc1664b15f9947df6251c4d",
       "path": "skills/short-drama",
       "publisher": "worldwonderer",
       "rebuildOn": [],
@@ -48,7 +48,7 @@
         "storyboard",
         "video-production"
       ],
-      "version": "1.0.28"
+      "version": "1.0.29"
     },
     {
       "catalogMigration": true,
@@ -133,7 +133,7 @@
         "**/*"
       ],
       "maintainer": "worldwonderer",
-      "packageDigest": "14bca2ee79013140615618ea03b98e0690324f751f02196b918d094aa80d1808",
+      "packageDigest": "2c41d17095b19c1887faa0bb643cbf62b275b75cebff2bba17d0f71025d2f17b",
       "path": "skills/short-drama-edit",
       "publisher": "worldwonderer",
       "rebuildOn": [],
@@ -154,7 +154,7 @@
         "storyboard",
         "video-production"
       ],
-      "version": "1.0.8"
+      "version": "1.0.9"
     },
     {
       "catalogMigration": true,
@@ -306,7 +306,7 @@
         "**/*"
       ],
       "maintainer": "worldwonderer",
-      "packageDigest": "c104a2a0c3b4f76720fd23aa9eda9356f353bc3886a24acae5d0f1075a0526eb",
+      "packageDigest": "0f5b9f250c47ea4cb3a66ce064bbe08d4c674a35c0b52ed975e7ef1dcd524aae",
       "path": "skills/short-drama-storyboard",
       "publisher": "worldwonderer",
       "rebuildOn": [],
@@ -325,7 +325,7 @@
         "storyboard",
         "video-production"
       ],
-      "version": "1.0.11"
+      "version": "1.0.12"
     },
     {
       "catalogMigration": true,
@@ -340,7 +340,7 @@
         "**/*"
       ],
       "maintainer": "worldwonderer",
-      "packageDigest": "34d3647c0e6d1105429dc1adffa03c62f7602b1e28acaddd898ab91701062f5d",
+      "packageDigest": "c255fd6d5552d348f6fe6d58ba12e4ba8c912428eec6cd19ad139a06718fc1f5",
       "path": "skills/short-drama-video-prompts",
       "publisher": "worldwonderer",
       "rebuildOn": [],
@@ -359,7 +359,7 @@
         "storyboard",
         "video-production"
       ],
-      "version": "1.0.10"
+      "version": "1.0.11"
     },
     {
       "catalogMigration": true,
