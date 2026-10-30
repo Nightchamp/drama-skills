@@ -358,6 +358,7 @@ macOS、Linux、WSL 与 Windows 原生都可运行。创作台以 `--detach` 独
 - [分镜脚本怎么写](docs/short-drama-storyboard-script-template.md)：短剧分镜表模板，把剧本逐镜拆开。
 - [角色三视图提示词怎么写](docs/character-turnaround-sheet-prompts.md)：三视图模板、范例与常见失误。
 - [Seedance 提示词怎么写](docs/seedance-prompt-writing.md)：起点、动作顺序、终点，以及 2.5 与 2.0 的写法差别。
+- [开源 AI 短剧 / 漫剧工具怎么选](docs/open-source-ai-short-drama-tools.md)：9 个项目按使用方式、许可证、覆盖环节与跨镜一致性做法对比（含利益相关说明）。
 - [小说改短剧指南](https://zenstory.ai/zh/drama-skills/novel-to-short-drama)：从有权改编的原著出发，形成分集决策、单集剧本与小范围分镜交接。
 - [角色跨镜一致性指南](https://zenstory.ai/zh/drama-skills/character-consistency)：分开人物身份、本场造型与逐镜变化的双手、持物、视线；区分 `IMG-*`、`PLAN-*` 与 `REF-*`。
 - [An open-source AI short-drama pipeline](docs/open-source-short-drama-pipeline.md)：英文读者的分阶段说明。
